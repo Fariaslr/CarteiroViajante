@@ -1,5 +1,3 @@
-# CarteiroViajante
-
 ## Caixeiro Viajante
 
 O problema do caixeiro viajante (TSP - Travelling Salesman Problem) é um desafio clássico em teoria dos grafos e otimização. Suponha que um caixeiro viajante precise visitar `n` cidades diferentes, iniciando e encerrando sua viagem na primeira cidade. O objetivo é encontrar a rota que minimiza a distância total percorrida, considerando que o caixeiro pode ir diretamente de qualquer cidade a qualquer outra.
